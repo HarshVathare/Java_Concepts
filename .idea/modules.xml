@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Composition/Composition.iml" filepath="$PROJECT_DIR$/Composition/Composition.iml" />
       <module fileurl="file://$PROJECT_DIR$/Data/Data.iml" filepath="$PROJECT_DIR$/Data/Data.iml" />
       <module fileurl="file://$PROJECT_DIR$/Encapsulation/Encapsulation.iml" filepath="$PROJECT_DIR$/Encapsulation/Encapsulation.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Java Full Stack.iml" filepath="$PROJECT_DIR$/.idea/Java Full Stack.iml" />
